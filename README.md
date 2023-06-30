@@ -1,6 +1,13 @@
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+
+## Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
 
 <!--
 **ddimitrovv/ddimitrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
