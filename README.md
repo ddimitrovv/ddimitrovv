@@ -2,11 +2,11 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&count_private=true)
 
 ## Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv&layout=compact)
 
 
 <!--
