@@ -1,4 +1,4 @@
-<h3>You can contact me here: <a href="https://www.linkedin.com/in/dimitar-dimitrov-386888263/"><img src="https://skillicons.dev/icons?i=linkedin" tyle="width: 26px; margin-bottom: -2px;"/></a>
+<h3>You can contact me here: <a href="https://www.linkedin.com/in/dimitar-dimitrov-386888263/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 26px; margin-bottom: -2px;"/></a>
 </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
