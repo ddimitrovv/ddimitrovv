@@ -4,6 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>My skills:</h3>
  [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,docker,git,github,linux,postgres,vscode)](https://skillicons.dev)
 
 <!--
