@@ -6,7 +6,7 @@
 
 <h2>My skills:</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,docker,git,github,linux,postgres,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,docker,git,github,linux,postgres,vscode,idea,powershell,stackoverflow)](https://skillicons.dev)
 
 <!--
 **ddimitrovv/ddimitrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
