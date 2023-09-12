@@ -3,12 +3,12 @@
 <h3>You can see my django project <a href="http://ec2-16-171-181-110.eu-north-1.compute.amazonaws.com/" target="_blank">here</a>
 </h3>
 
-<h2>My skills:</h2>
-
- [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,docker,git,github,linux,postgres,vscode,idea,powershell,stackoverflow)](https://skillicons.dev)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+ <h2>My skills:</h2>
+
+ [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,docker,git,github,linux,postgres,vscode,idea,powershell,stackoverflow)](https://skillicons.dev)
 
 <!--
 **ddimitrovv/ddimitrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
