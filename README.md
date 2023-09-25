@@ -1,6 +1,6 @@
 <h2>You can contact me here: <a href="https://www.linkedin.com/in/dimitar-dimitrov-386888263/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 26px; margin-bottom: -2px;"/></a>
 </h2>
-<h2>You can see my django project here <a href="http://ec2-16-171-181-110.eu-north-1.compute.amazonaws.com/" target="_blank"><span>[(https://skillicons.dev/icons?i=aws)]>/span></a>
+<h2>You can see my django project here <a href="http://ec2-16-171-181-110.eu-north-1.compute.amazonaws.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
