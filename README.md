@@ -1,8 +1,12 @@
+<!DOCTYPE html>
+<html>
 <head>
     <!-- Include FontAwesome CSS from the CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
-<h2>You can contact me here: <a href="https://www.linkedin.com/in/dimitar-dimitrov-386888263/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 26px; margin-bottom: -2px;"/></a>
+<body>
+    <!-- Your HTML content here -->
+    <h2>You can contact me here: <a href="https://www.linkedin.com/in/dimitar-dimitrov-386888263/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 26px; margin-bottom: -2px;"/></a>
 </h2>
 <h2>You can see my django project here <a href="http://ec2-16-171-181-110.eu-north-1.compute.amazonaws.com/" target="_blank"><i class="fa-brands fa-aws"></i></a>
 </h2>
@@ -29,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
