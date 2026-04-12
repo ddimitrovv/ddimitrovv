@@ -1,7 +1,7 @@
 <!-- <h2>You can contact me here: <a href="https://www.linkedin.com/in/dimitar-dimitrov-386888263/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 26px; margin-bottom: -2px;"/></a>
 </h2> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv&show_icons=true&theme=highcontrast)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddimitrovv)](https://github.com/ddimitrovv/github-readme-stats)
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddimitrovv&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
  <h2>My skills:</h2>
