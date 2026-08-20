@@ -8,7 +8,7 @@
 
  <h2>My skills:</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,js,react,nextjs,vue,html,css,docker,git,github,linux,postgres,vscode,idea,postman,bash,powershell,redis,rabbitmq,md,stackoverflow)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,js,react,nextjs,vue,html,css,nodejs,vite,docker,git,github,linux,mint,kali,windows,postgres,mysql,vscode,idea,postman,bash,vim,powershell,redis,rabbitmq,md,notion,regex,stackoverflow)](https://skillicons.dev)
 
 <!--
 **ddimitrovv/ddimitrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
